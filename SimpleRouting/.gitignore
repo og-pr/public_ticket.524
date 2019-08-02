@@ -31,10 +31,11 @@ build/
 .idea
 .gradle
 *.iml
+debug.*
 
 # Other
 .buckconfig
-yarn.lock
+#yarn.lock
 
 # Logs
 logs
