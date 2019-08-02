@@ -25,3 +25,12 @@ export const MOBILE_HOME = () => {
 		</Text>
 	)
 }
+
+// og.note: technical debt = mechanism for missing route not coded. left as excercise for other developers.
+/* 
+export const MOBILE_NOT_FOUND = () => {
+	return ( 
+		<Text style={MOBILE.Styles.blockText}>{CONSTANTS.NOT_FOUND}</Text>
+	);
+}
+*/
