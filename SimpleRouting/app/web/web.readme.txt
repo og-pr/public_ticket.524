@@ -1,0 +1,6 @@
+* Files in this folder are NOT compiled
+* Files in this folder are COPIED to /public, during deployment; i.e.
+* css/styles.css (UI styling for webapp outside components, containers, etc.)
+
+NOTE: IMHO all files for /public (the deployment folder) should be here      
+      and copied or compiled, as needed during the build/deployment process.

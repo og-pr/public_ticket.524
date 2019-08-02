@@ -1,0 +1,2 @@
+* Folder is placeholder for "(dynamic) page content." 
+* Currently, (static) content is @ app/common/constants.js.
