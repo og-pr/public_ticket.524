@@ -42,10 +42,9 @@ For each platform, from the root directory, do
 
 Screenshots
 ===========
-
-TBD = Screenshot - all
-TBD = Animated GIF - iOS
-TBD = Animated GIF - Andoid
+* TBD = Screenshot - all
+* TBD = Animated GIF - iOS
+* TBD = Animated GIF - Andoid
 
 
 Notes - Development 
