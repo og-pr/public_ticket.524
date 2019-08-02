@@ -26,7 +26,7 @@ export const MOBILE_HOME = () => {
 	)
 }
 
-// og.note: technical debt = mechanism for missing route not coded. left as excercise for other developers.
+// og.note: mechanism for missing routes not coded. left as exercise to repo user
 /* 
 export const MOBILE_NOT_FOUND = () => {
 	return ( 
