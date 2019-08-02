@@ -6,7 +6,7 @@ import * as ROUTES from '../../routes/web.js';
 import * as STYLES from '../../styles/web.js'; 
 import * as CONSTANTS from '../../common/constants.js';
 
-// og.note: technical debt = mechanism for missing route not coded. left as excercise for other developers.
+// og.note: mechanism for missing routes not coded. left as exercise to repo user
 const App = () => (
   <Router>
     <div style={STYLES.container}>
