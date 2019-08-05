@@ -42,9 +42,9 @@ For each platform, from the root directory, do
 
 Screenshots
 ===========
-* TBD = Screenshot - all
-* TBD = Animated GIF - iOS
-* TBD = Animated GIF - Andoid
+![Screenshot - all](https://github.com/og-pr/public_ticket.524/blob/master/SimpleRouting/_docs/monorepo_all.png)
+![Animated GIF - iOS](https://github.com/og-pr/public_ticket.524/blob/master/SimpleRouting/_docs/ezgif-720_ios_c.gif)
+![Animated GIF - Andoid](https://github.com/og-pr/public_ticket.524/blob/master/SimpleRouting/_docs/ezgif-720_android_c.gif)
 
 
 Notes - Development 
