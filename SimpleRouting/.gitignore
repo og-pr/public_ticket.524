@@ -32,7 +32,7 @@ build/
 .idea
 .gradle
 *.iml
-debug.*
+#debug.*
 
 # Other
 .buckconfig
