@@ -50,7 +50,7 @@ Screenshots & Animated GIFs
 Notes - Development 
 ===========
 * [React Router](https://github.com/ReactTraining/react-router) aka 1 package is used as navigational components 
-* Error handling for missing routes, aka 404 pages, left as excercise to repo user. You can use this [guide](https://tylermcginnis.com/react-router-handling-404-pages/), if stuck.
+* Error handling for missing routes, aka 404 pages, left as exercise to repo user. You can use this [guide](https://tylermcginnis.com/react-router-handling-404-pages/), if stuck.
 
 Notes - Miscellaneous 
 =====
