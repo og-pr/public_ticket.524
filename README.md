@@ -40,7 +40,7 @@ For each platform, from the root directory, do
 ### iOS
 * ```react-native run-ios``` or open ```ios/RandomImage.xcodeproj``` with Xcode
 
-Screenshots
+Screenshots & Animated GIFs
 ===========
 ![Screenshot - all](https://github.com/og-pr/public_ticket.524/blob/master/SimpleRouting/_docs/monorepo_all.png)
 ![Animated GIF - iOS](https://github.com/og-pr/public_ticket.524/blob/master/SimpleRouting/_docs/ezgif-720_ios_c.gif)
